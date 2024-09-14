@@ -20,7 +20,7 @@
   </head>
   <body>
     <?php 
-$con = mysqli_connect ("localhost","ilinguir","mPLm49gv09","ilinguir_daily") or die ('Connection was not established');
+$con;
 ?>
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
